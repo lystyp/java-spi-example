@@ -1,0 +1,4 @@
+# Spring Factories 配置文件
+# 格式: 介面類別名稱=實作類別名稱1,實作類別名稱2,...
+
+com.example.api.Logger=com.example.loggerv2.CustomLoggerV2
